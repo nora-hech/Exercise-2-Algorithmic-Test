@@ -73,3 +73,6 @@ Romandigit(1500)
 Romandigit(900)
 Romandigit(1756)
 Romandigit(1957)
+
+n = int(input("Enter the interger you want to convert in Roman numerical? "))
+Romandigit(n)
